@@ -1,0 +1,48 @@
+body {
+    color: black;
+    font-family: monospace;
+    width: 120ch;
+}
+
+h1 {
+    bg-color: black;
+    text: white;
+    text-decoration: underline;
+    width: 120ch;
+}
+
+h2 {
+    padding-left: 2ch;
+    background: black;
+    color: white;
+    width: 120ch;
+}
+
+h3 {
+    padding-left: 4ch;
+    background: #393939;
+    color: #dcdcdc;
+    width: 120ch;
+}
+
+p {
+    margin-left: 4ch;
+    width: 120ch;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: #393939;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+
+h4 {
+    padding-left: 2ch;
+}

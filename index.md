@@ -104,8 +104,7 @@ As a part of backend team I has been developing innovative platform for algorith
 * **aws**, ansible, terraform, linux, python, bash/sh, git
 
 ### `ActiveVideo      | Senior software developer                          | 01.2016 - 09.2017 | 1y9m  | NL` ###
-
-
+[https://www.activevideo.com/](https://www.activevideo.com/)
 
 As a part of the small end-to-end scrum team I have developed features across several components of video delivery platform. 
 
