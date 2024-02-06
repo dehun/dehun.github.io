@@ -1,4 +1,4 @@
-% ..: Yuriy Netesov | Backend Scala Freelancer :..
+# ..: Yuriy Netesov | Backend Scala Freelancer :.. #
 ## [ intro ] ##
 I am a software consultant with over 15 years of experience building commercial software. I have worked in both corporate and startup environments.
 I specialize in backend, distributed systems, functional programming, Scala, C++, and Python.
@@ -18,9 +18,9 @@ I have a fully equipped home office to work remotely.
 As for the onsite, I am located in Almere, Netherlands, and can commute to nearby cities (i.e. Amsterdam, Utrecht, and Den Haag).
 
 ## [ experience ] ##
-### `                 |  Senior backend developer, as self employed        | 01.2023 - present | 1y1m  | NL`###
+### `_                |  Senior backend developer, as self employed        | 01.2023 - present | 1y1m  | NL`###
 
-I am part of a backend team developing new features and supporting B2B post shipping platform .
+I am part of a backend team developing new features and supporting B2B shipping platform .
 
 #### tech ####
 * **Scala** 2.13 amd **3**, **cats**, **zio**, http4s, sql, akka, avro4s, elastic4s
@@ -174,5 +174,6 @@ I have been part of a medium-sized team of server-side developers. My main respo
 
 #### tech ####
 **C++-03**, **C#**, stl, C++/cli, RakNet, xml/xslt, tcp/ip
+
 
 ## [ EoF ] ##
