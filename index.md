@@ -18,7 +18,7 @@ I have a fully equipped home office to work remotely.
 As for the onsite, I am located in Almere, Netherlands, and can commute to nearby cities (i.e. Amsterdam, Utrecht, and Den Haag).
 
 ## [ experience ] ##
-### `_                |  Senior backend developer, as self employed        | 01.2023 - present | 1y1m  | NL`###
+### `FedEx/TNT         |  Senior backend developer, as self employed        | 01.2023 - present | 1y1m  | NL`###
 
 I am part of a backend team developing new features and supporting B2B shipping platform .
 
