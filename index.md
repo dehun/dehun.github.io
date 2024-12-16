@@ -18,16 +18,28 @@ I have a fully equipped home office to work remotely.
 As for the onsite, I am located in Almere, Netherlands, and can commute to nearby cities (i.e. Amsterdam, Utrecht, and Den Haag).
 
 ## [ experience ] ##
-### `FedEx/TNT         |  Senior backend developer, as self employed        | 01.2023 - present | 1y1m  | NL`###
+### `Shell recharge    |  Senior backend developer, as self employed        | 10.2024 - present | _____  | NL`###
+
+Working on EV charging network backend.
+
+#### tech ####
+* **Scala** 2.13, **cats**, tapir, http4s, sql, akka, aws
+
+#### highlights ####
+* Migrated codebase from slick 2 to slick 3 using innovative approach
+* Upgraded codebase from scala 2.12 to 2.13 
+* Plenty of small refactorings and improvements to keep the rest of the team focused
+
+### `FedEx/TNT         |  Senior backend developer, as self employed        | 01.2023 - 10.2024 | 1y10m  | NL`###
 
 I am part of a backend team developing new features and supporting B2B shipping platform .
 
 #### tech ####
-* **Scala** 2.13 amd **3**, **cats**, **zio**, http4s, sql, akka, avro4s, elastic4s
+* **Scala** 2.13 and **3**, **cats**, **zio**, http4s, sql, akka, avro4s, elastic4s
 * Kafka, Cassandra, ElasticSearch, azure, PostgreSQL, aws
 
 #### highlights ####
-* Unified our tech stack by migrating half of the microservices from akka to typelevel stack.
+* Unified tech stack by migrating half of the microservices from akka to typelevel stack.
 * Migrated codebase to Scala 3 and jdk21.
 * Participated in numerous incident mitigations.
 
