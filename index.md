@@ -1,6 +1,6 @@
-# ..: Yuriy Netesov | Backend Scala Freelancer :.. #
+# ..: Joris Netesov | Backend Scala Freelancer :.. #
 ## [ intro ] ##
-I am a software consultant with over 15 years of experience building commercial software. I have worked in both corporate and startup environments.
+I am a software consultant with over 15 years of experience building commercial software in both corporate and startup environments.
 I specialize in backend, distributed systems, functional programming, Scala, C++, and Python.
 
 ## [ legal ] ##
@@ -10,7 +10,7 @@ Dutch citizen
 
 ## [ contacts ] ##
 phone nr: 0613949260 (whatsapp)  
-email: yuriy.netesov@gmail.com  
+email: joris.netesov@gmail.com  
 github: [http://github.com/dehun](http://github.com/dehun)
 
 ## [ where ] ##
