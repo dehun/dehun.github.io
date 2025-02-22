@@ -14,8 +14,8 @@ email: joris.netesov@gmail.com
 github: [http://github.com/dehun](http://github.com/dehun)
 
 ## [ where ] ##
+Almere, Netherlands (can commute to i.e. Amsterdam, Utrecht)
 I have a fully equipped home office to work remotely.
-As for the onsite, I am located in Almere, Netherlands, and can commute to nearby cities (i.e. Amsterdam, Utrecht, and Den Haag).
 
 ## [ experience ] ##
 ### `Shell recharge    |  Senior backend developer, as self employed        | 10.2024 - present | _____  | NL`###
@@ -32,7 +32,7 @@ Working on EV charging network backend.
 
 ### `FedEx/TNT         |  Senior backend developer, as self employed        | 01.2023 - 10.2024 | 1y10m  | NL`###
 
-I am part of a backend team developing new features and supporting B2B shipping platform .
+I was part of a backend team developing new features and supporting B2B shipping platform .
 
 #### tech ####
 * **Scala** 2.13 and **3**, **cats**, **zio**, http4s, sql, akka, avro4s, elastic4s
@@ -74,14 +74,14 @@ Woov is a platform for digital and live festivals. I have been working on the ba
 * datadog, opentracing, kamon
 
 #### highlights ####
-* Saved the day by making request handling 10 times faster, right before the biggest festival - turning a huge disaster into huge victory
+* Optimized backend to handle requests 10 times faster. Right before biggest event - Kingsday
 * Played scrum master role, introduced feature teams with guilds which improved daily communications
 * Implemented new CMS using Scalajs and Scalajs-react
 * Designed and implemented some reusable parts for microservices to make start of a new microservice painless
 * Fixed numerous performance problems and memory leaks, which had visible effect on stability
 * Designed tracing and monitoring modules which improved incident response times (datadog)
 * Organized hackathon to introduce api integration tests into the team and made those tests part of normal development practice
-* Designed and implemented in-memory cache with invalidation through rabbitmq/Kafka messages - integrated into tooling used by content managers, replacing old implementation, this made content updates visible instantly
+* Designed and implemented in-memory cache with invalidation through rabbitmq/Kafka messages. 
 * Migrated backend build from pants-build into sbt, which enabled team to benefit from some widespread tools (like Scalapb, Scalajs, etc)
 * Designed and participated in re-implementation of event search feature, significantly improving speed and stability in comparison to old implementation
 * Implemented location based cache for events for blazingly fast lookup of events
