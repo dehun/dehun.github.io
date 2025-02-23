@@ -46,3 +46,12 @@ a:hover {
 h4 {
     padding-left: 2ch;
 }
+
+.flag_div {
+    height:6ch;
+    float: right;
+}
+
+.flag_img {
+    height: 6ch;
+}
