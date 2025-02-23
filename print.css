@@ -39,3 +39,13 @@ a:link {
 p {
     page-break-inside: avoid;
 }
+
+.flag_div {
+    display: none;
+    visibility: hidden;
+}
+
+.flag_img {
+    display: none;
+    visibility: hidden;
+}
