@@ -1,7 +1,7 @@
 # ..: Joris Netesov | Backend Scala Freelancer :.. #
 ## [ introductie ] ##
 Ik ben een softwareconsultant met meer dan 15 jaar ervaring in het bouwen van commerciële software in zowel zakelijke als startup-omgevingen.
-Ik ben gespecialiseerd in backend, distributed systems, functional programming, Scala, C++, and Python.
+Ik ben gespecialiseerd in backend, distributed systems, functional programming, Scala, C++, Python.
 
 ## [ legaal ] ##
 Bedrijfsnaam: ynetesov  
@@ -18,7 +18,7 @@ Almere, Nederland (kan pendelen naar bijvoorbeeld Amsterdam, Utrecht)
 Ik heb een volledig uitgerust thuiskantoor om op afstand te werken.
 
 ## [ ervaring ] ##
-### `Shell recharge    |  Senior backend developer, as self employed        | 10.2024 - present | _____  `###
+### `Shell recharge    |  Senior backend developer, as self employed        | 10.2024 - nu      | _____  `###
 
 Werken aan de backend van het EV laden bedrijf.
 
